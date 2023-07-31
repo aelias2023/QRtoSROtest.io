@@ -183,8 +183,6 @@
 
     // Call the function to set input field values on page load
     setValuesFromURLParams();
-  </script>
-</body>
 </html>
 
 
